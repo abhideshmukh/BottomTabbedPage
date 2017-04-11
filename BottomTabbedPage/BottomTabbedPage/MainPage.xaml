@@ -4,6 +4,6 @@
              xmlns:pages="clr-namespace:BottomTabbedPage;assembly=BottomTabbedPage"
              x:Class="BottomTabbedPage.MainPage">
 
-    <pages:AboutPage />
-    <pages:ContactsPage />
+    <pages:AboutPage Icon="ic_about" />
+    <pages:ContactsPage Icon="ic_contact"/>
 </TabbedPage>
